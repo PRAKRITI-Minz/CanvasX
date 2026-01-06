@@ -1,0 +1,46 @@
+[
+  {
+    "id": "0f6837da-921e-4056-99c8-3932d0205205",
+    "name": "A",
+    "blocks": [
+      {
+        "id": 1767083142585,
+        "type": "Hero",
+        "content": "This is Hero block",
+        "height": 88,
+        "width": 300,
+        "x": 50,
+        "y": 80
+      },
+      {
+        "id": 1767083143445,
+        "type": "About",
+        "content": "This is About block",
+        "height": 88,
+        "width": 300,
+        "x": 52,
+        "y": 254
+      },
+      {
+        "id": 1767083147884,
+        "type": "Gallery",
+        "content": "This is Gallery block",
+        "height": 88,
+        "width": 300,
+        "x": 61,
+        "y": 436
+      },
+      {
+        "id": 1767083152716,
+        "type": "Publication",
+        "content": "This is Publication block",
+        "height": 88,
+        "width": 300,
+        "x": 63,
+        "y": 607
+      }
+    ],
+    "createdAt": 1767083124875,
+    "lastUpdated": 1767107001056
+  }
+]
