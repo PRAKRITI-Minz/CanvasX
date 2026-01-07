@@ -248,3 +248,5 @@ Postman was used to test and validate all backend API endpoints during developme
  - Understanding how to break large application into frontend, backend and databse layers.
  - Learning about different API Methods.
  - Understanding MongoDB connection to node.js
+ - **MDN**
+ - For study resources.
